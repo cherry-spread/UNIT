@@ -1,0 +1,19 @@
+{
+  "capturedAt": "2026-11-06T08:25:21.788Z",
+  "note": "Default demo seeds from deployed bundle. Relative timestamps anchored to extraction time; excludes existing browser localStorage.",
+  "counts": {
+    "rooms": 16,
+    "messages": 13,
+    "posts": 9,
+    "settings": 1,
+    "products": 6,
+    "comments": 5,
+    "articles": 5,
+    "lessons": 8,
+    "videos": 3,
+    "leads": 3,
+    "reports": 2,
+    "users": 7
+  },
+  "errors": {}
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "l1",
+    "level": 0,
+    "type": "회화",
+    "title": "카페에서 주문하기",
+    "cards": 8,
+    "hasRecording": false,
+    "order": 1,
+    "published": true
+  },
+  {
+    "id": "l2",
+    "level": 0,
+    "type": "문법",
+    "title": "-(으)ㄹ 수 있어요 / 없어요",
+    "cards": 10,
+    "hasRecording": false,
+    "order": 2,
+    "published": true
+  },
+  {
+    "id": "l3",
+    "level": 0,
+    "type": "발음",
+    "title": "받침 소리: ㄱ · ㄷ · ㅂ",
+    "cards": 6,
+    "hasRecording": true,
+    "order": 3,
+    "published": true
+  },
+  {
+    "id": "l4",
+    "level": 0,
+    "type": "회화",
+    "title": "편의점에서 계산하기",
+    "cards": 8,
+    "hasRecording": false,
+    "order": 4,
+    "published": true
+  },
+  {
+    "id": "l5",
+    "level": 1,
+    "type": "회화",
+    "title": "병원에서 증상 말하기",
+    "cards": 12,
+    "hasRecording": false,
+    "order": 1,
+    "published": true
+  },
+  {
+    "id": "l6",
+    "level": 1,
+    "type": "문법",
+    "title": "-는 바람에 / -느라고",
+    "cards": 10,
+    "hasRecording": false,
+    "order": 2,
+    "published": true
+  },
+  {
+    "id": "l7",
+    "level": 2,
+    "type": "회화",
+    "title": "계약 조건 협의하기",
+    "cards": 12,
+    "hasRecording": false,
+    "order": 1,
+    "published": true
+  },
+  {
+    "id": "l8",
+    "level": 2,
+    "type": "발음",
+    "title": "억양과 끊어 읽기",
+    "cards": 8,
+    "hasRecording": true,
+    "order": 2,
+    "published": true
+  }
+]

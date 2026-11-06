@@ -1,0 +1,7 @@
+{
+  "name": "forduck-recovery-tools",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Parse deployed demo seed constants without executing the application",
+  "dependencies": { "acorn": "8.15.0" }
+}

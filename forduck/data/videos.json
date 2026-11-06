@@ -1,0 +1,212 @@
+[
+  {
+    "id": "v1",
+    "slot": 1,
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_060848_594911f4-cc19-4959-8d05-820c01edb0ad.mp4",
+    "poster": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_055416_93187b8d-638f-4f02-b316-e1d0f7321985.png",
+    "level": "초급",
+    "title": "카페에서 주문하기",
+    "sub": "기초 문장 4개 · 주문 · 계산",
+    "titleTr": {
+      "en": "Ordering at a cafe",
+      "vi": "Gọi đồ ở quán cà phê",
+      "th": "สั่งเครื่องดื่มที่คาเฟ่",
+      "id": "Memesan di kafe",
+      "bn": "ক্যাফেতে অর্ডার করা"
+    },
+    "cues": [
+      {
+        "start": 0.4,
+        "end": 3.8,
+        "ko": "안녕하세요.",
+        "roman": "annyeonghaseyo",
+        "tr": {
+          "en": "Hello.",
+          "vi": "Xin chào.",
+          "th": "สวัสดีค่ะ",
+          "id": "Halo.",
+          "bn": "হ্যালো।"
+        }
+      },
+      {
+        "start": 4.2,
+        "end": 7.8,
+        "ko": "아이스 아메리카노 한 잔 주세요.",
+        "roman": "aiseu amerikano han jan juseyo",
+        "tr": {
+          "en": "One iced americano, please.",
+          "vi": "Cho tôi một ly americano đá.",
+          "th": "ขออเมริกาโน่เย็นหนึ่งแก้วค่ะ",
+          "id": "Tolong satu es americano.",
+          "bn": "একটি আইস আমেরিকানো দিন।"
+        }
+      },
+      {
+        "start": 8.2,
+        "end": 11.3,
+        "ko": "얼마예요?",
+        "roman": "eolmayeyo",
+        "tr": {
+          "en": "How much is it?",
+          "vi": "Bao nhiêu tiền ạ?",
+          "th": "ราคาเท่าไหร่คะ",
+          "id": "Berapa harganya?",
+          "bn": "কত টাকা?"
+        }
+      },
+      {
+        "start": 11.6,
+        "end": 14.8,
+        "ko": "사천 원입니다.",
+        "roman": "sacheon wonimnida",
+        "tr": {
+          "en": "It's 4,000 won.",
+          "vi": "Là 4.000 won ạ.",
+          "th": "4,000 วอนค่ะ",
+          "id": "Harganya 4.000 won.",
+          "bn": "৪,০০০ ওন।"
+        }
+      }
+    ]
+  },
+  {
+    "id": "v2",
+    "slot": 2,
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_060848_19a39ca9-f551-4f45-b87a-031092cb1b16.mp4",
+    "poster": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_055416_6f2d6225-0b8c-421e-96d3-818d6a519612.png",
+    "level": "초급",
+    "title": "병원에서 증상 말하기",
+    "sub": "기초 문장 4개 · 병원 · 증상",
+    "titleTr": {
+      "en": "Describing symptoms at a clinic",
+      "vi": "Nói triệu chứng ở phòng khám",
+      "th": "บอกอาการที่คลินิก",
+      "id": "Menjelaskan gejala di klinik",
+      "bn": "ক্লিনিকে উপসর্গ বলা"
+    },
+    "cues": [
+      {
+        "start": 0.4,
+        "end": 3.8,
+        "ko": "어디가 아프세요?",
+        "roman": "eodiga apeuseyo",
+        "tr": {
+          "en": "Where does it hurt?",
+          "vi": "Bạn đau ở đâu?",
+          "th": "เจ็บตรงไหนคะ",
+          "id": "Di mana yang sakit?",
+          "bn": "কোথায় ব্যথা করছে?"
+        }
+      },
+      {
+        "start": 4.2,
+        "end": 7.8,
+        "ko": "목이 아프고 열이 나요.",
+        "roman": "mogi apeugo yeori nayo",
+        "tr": {
+          "en": "My throat hurts and I have a fever.",
+          "vi": "Tôi đau họng và bị sốt.",
+          "th": "เจ็บคอและมีไข้ค่ะ",
+          "id": "Tenggorokan saya sakit dan demam.",
+          "bn": "গলা ব্যথা করছে আর জ্বর আছে।"
+        }
+      },
+      {
+        "start": 8.2,
+        "end": 11.3,
+        "ko": "언제부터 그러셨어요?",
+        "roman": "eonjebuteo geureosyeosseoyo",
+        "tr": {
+          "en": "Since when?",
+          "vi": "Từ khi nào vậy?",
+          "th": "เป็นตั้งแต่เมื่อไหร่คะ",
+          "id": "Sejak kapan?",
+          "bn": "কবে থেকে?"
+        }
+      },
+      {
+        "start": 11.6,
+        "end": 14.8,
+        "ko": "어제부터요.",
+        "roman": "eojebuteoyo",
+        "tr": {
+          "en": "Since yesterday.",
+          "vi": "Từ hôm qua ạ.",
+          "th": "ตั้งแต่เมื่อวานค่ะ",
+          "id": "Sejak kemarin.",
+          "bn": "গতকাল থেকে।"
+        }
+      }
+    ]
+  },
+  {
+    "id": "v3",
+    "slot": 3,
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_060849_6257415b-4d8c-468e-8999-b7ba015bf0eb.mp4",
+    "poster": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_055416_c25e6908-4405-4595-b4aa-0fd26700bf20.png",
+    "level": "초급",
+    "title": "편의점에서 계산하기",
+    "sub": "기초 문장 4개 · 계산 · 결제",
+    "titleTr": {
+      "en": "Paying at a convenience store",
+      "vi": "Thanh toán ở cửa hàng tiện lợi",
+      "th": "จ่ายเงินที่ร้านสะดวกซื้อ",
+      "id": "Membayar di minimarket",
+      "bn": "কনভিনিয়েন্স স্টোরে পেমেন্ট"
+    },
+    "cues": [
+      {
+        "start": 0.4,
+        "end": 3.8,
+        "ko": "봉투 하나 주세요.",
+        "roman": "bongtu hana juseyo",
+        "tr": {
+          "en": "One bag, please.",
+          "vi": "Cho tôi một cái túi.",
+          "th": "ขอถุงหนึ่งใบค่ะ",
+          "id": "Tolong satu kantong.",
+          "bn": "একটা ব্যাগ দিন।"
+        }
+      },
+      {
+        "start": 4.2,
+        "end": 7.8,
+        "ko": "네, 오십 원입니다.",
+        "roman": "ne, osip wonimnida",
+        "tr": {
+          "en": "Sure, that will be 50 won.",
+          "vi": "Vâng, 50 won ạ.",
+          "th": "ค่ะ 50 วอนค่ะ",
+          "id": "Baik, 50 won.",
+          "bn": "হ্যাঁ, ৫০ ওন।"
+        }
+      },
+      {
+        "start": 8.2,
+        "end": 11.3,
+        "ko": "카드 되나요?",
+        "roman": "kadeu doenayo",
+        "tr": {
+          "en": "Do you take cards?",
+          "vi": "Có nhận thẻ không ạ?",
+          "th": "รับบัตรไหมคะ",
+          "id": "Bisa pakai kartu?",
+          "bn": "কার্ড চলবে?"
+        }
+      },
+      {
+        "start": 11.6,
+        "end": 14.8,
+        "ko": "네, 여기에 넣어 주세요.",
+        "roman": "ne, yeogie neoeo juseyo",
+        "tr": {
+          "en": "Yes, insert it here please.",
+          "vi": "Vâng, xin cắm vào đây.",
+          "th": "ค่ะ เสียบตรงนี้ค่ะ",
+          "id": "Ya, masukkan di sini.",
+          "bn": "হ্যাঁ, এখানে ঢোকান।"
+        }
+      }
+    ]
+  }
+]

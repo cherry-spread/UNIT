@@ -1,0 +1,43 @@
+[
+  {
+    "id": "cm1",
+    "postId": "c1",
+    "author": "andi.jkt",
+    "body": "저도 지난달에 했어요. 하이코리아에서 신청하고 2주 걸렸습니다.",
+    "lang": "ko",
+    "createdAt": "2026-11-06T06:25:21.788Z"
+  },
+  {
+    "id": "cm2",
+    "postId": "c1",
+    "author": "mika_tokyo",
+    "body": "학교 국제처 확인서가 꼭 필요해요!",
+    "lang": "ko",
+    "createdAt": "2026-11-06T07:25:21.788Z"
+  },
+  {
+    "id": "cm3",
+    "postId": "c2",
+    "author": "tu_hanoi",
+    "body": "Cảm ơn bạn, thông tin rất hữu ích!",
+    "lang": "vi",
+    "ko": "감사합니다, 정말 유용한 정보예요!",
+    "createdAt": "2026-11-06T06:55:21.788Z"
+  },
+  {
+    "id": "cm4",
+    "postId": "c3",
+    "author": "sofia_bkk",
+    "body": "주말 아침에 저도 뛰어요. 같이 해요!",
+    "lang": "ko",
+    "createdAt": "2026-11-06T06:25:21.788Z"
+  },
+  {
+    "id": "cm5",
+    "postId": "c4",
+    "author": "minh_02",
+    "body": "K-패스 신청 링크 공유해 주실 수 있나요?",
+    "lang": "ko",
+    "createdAt": "2026-11-05T12:25:21.788Z"
+  }
+]

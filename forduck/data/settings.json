@@ -1,0 +1,43 @@
+{
+  "appName": "포덕",
+  "dong": "안양동",
+  "dongFull": "경기 안양시 만안구 안양동",
+  "dailyGoalMin": 10,
+  "usimPartnerUrl": "https://www.lguplus.com/",
+  "usimPartnerLabel": "LG U+ 제휴 페이지 열기",
+  "usimPlans": [
+    {
+      "name": "데이터 무제한",
+      "sub": "통화 100분 · 문자 기본",
+      "price": 33000
+    },
+    {
+      "name": "5GB + 통화 100분",
+      "sub": "알뜰 요금제",
+      "price": 25000
+    }
+  ],
+  "homeBanner": {
+    "title": "도착 첫 주, 유심부터 해결하세요",
+    "sub": "여권만 있으면 OK — USIM 신청하기"
+  },
+  "translationProvider": "Google 번역",
+  "aiDailyLimit": 20,
+  "aiModel": "haiku",
+  "aiEnabled": true,
+  "aiLogQuestions": true,
+  "verifyGate": {
+    "market": true,
+    "community": true,
+    "chat": true,
+    "ai": true
+  },
+  "enabledLangs": [
+    "ko",
+    "en",
+    "vi",
+    "th",
+    "id",
+    "bn"
+  ]
+}

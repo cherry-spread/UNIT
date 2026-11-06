@@ -1,0 +1,62 @@
+[
+  {
+    "id": "a1",
+    "category": "비자",
+    "title": "D-2에서 D-10으로: 구직비자 전환 체크리스트",
+    "views": 1200,
+    "published": true,
+    "publishedAt": "2026-08-20",
+    "body": "졸업 예정 6개월 전부터 준비하세요. 필요 서류: 졸업(예정)증명서, 구직활동계획서, 재정증명. 하이코리아 온라인 신청 가능.",
+    "translations": {
+      "vi": {
+        "title": "Từ D-2 sang D-10: Danh sách chuyển đổi visa tìm việc",
+        "body": "Chuẩn bị từ 6 tháng trước khi tốt nghiệp."
+      }
+    }
+  },
+  {
+    "id": "a2",
+    "category": "생활",
+    "title": "쓰레기 분리배출, 이것만 알면 끝",
+    "views": 3400,
+    "published": true,
+    "publishedAt": "2026-08-18",
+    "body": "일반쓰레기는 종량제 봉투, 음식물은 전용 봉투. 플라스틱·캔·종이는 요일별 배출. 대형 폐기물은 동주민센터 신고 후 스티커 부착.",
+    "translations": {}
+  },
+  {
+    "id": "a3",
+    "category": "문화",
+    "title": "추석 연휴에 문 여는 곳 총정리",
+    "views": 890,
+    "published": true,
+    "publishedAt": "2026-08-15",
+    "body": "대형마트 대부분 당일 휴무. 편의점·프랜차이즈 카페는 정상 영업. 병원은 응급실과 당번 약국 확인.",
+    "translations": {}
+  },
+  {
+    "id": "a4",
+    "category": "비자",
+    "title": "외국인등록증 재발급, 온라인으로 하는 법",
+    "views": 2100,
+    "published": true,
+    "publishedAt": "2026-08-12",
+    "body": "하이코리아 → 민원신청 → 외국인등록증 재발급. 분실 시 분실신고서 첨부. 수수료 3만원.",
+    "translations": {}
+  },
+  {
+    "id": "a5",
+    "category": "생활",
+    "title": "외국인 은행 계좌 개설 가이드 (서류 리스트)",
+    "views": 5700,
+    "published": true,
+    "publishedAt": "2026-08-10",
+    "body": "여권 + 외국인등록증 + 체류 목적 증빙(재학증명서·근로계약서). 은행별 외국인 전용 창구 운영 시간 확인.",
+    "translations": {
+      "vi": {
+        "title": "Hướng dẫn mở tài khoản ngân hàng cho người nước ngoài",
+        "body": "Hộ chiếu + thẻ đăng ký người nước ngoài + giấy tờ chứng minh mục đích cư trú."
+      }
+    }
+  }
+]

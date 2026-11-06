@@ -1,0 +1,22 @@
+[
+  {
+    "id": "rp1",
+    "targetType": "product",
+    "targetId": "p3",
+    "targetLabel": "생활용 자전거",
+    "reason": "가격 정보가 실제와 달라요",
+    "reporter": "andi.jkt",
+    "status": "접수",
+    "createdAt": "2026-11-06T03:25:21.788Z"
+  },
+  {
+    "id": "rp2",
+    "targetType": "post",
+    "targetId": "c4",
+    "targetLabel": "K-패스 교통카드, 외국인도 발급 후기",
+    "reason": "광고성 게시글",
+    "reporter": "sofia_bkk",
+    "status": "기각",
+    "createdAt": "2026-11-04T08:25:21.788Z"
+  }
+]

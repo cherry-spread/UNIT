@@ -1,0 +1,41 @@
+[
+  {
+    "id": "u1",
+    "seq": 1021,
+    "name": "NGUYEN VAN AN",
+    "contact": "an.nguyen@example.com",
+    "carrier": "LG U+",
+    "plan": "데이터 무제한",
+    "pickup": "공항 수령",
+    "status": "개통완료",
+    "partnerRef": "LGU-88213",
+    "memo": "",
+    "createdAt": "2026-11-03T08:25:21.788Z"
+  },
+  {
+    "id": "u2",
+    "seq": 1022,
+    "name": "SIRIPORN K.",
+    "contact": "010-2222-3333",
+    "carrier": "KT",
+    "plan": "5GB + 통화 100분",
+    "pickup": "택배 배송",
+    "status": "확인중",
+    "partnerRef": "KT-51022",
+    "memo": "주소 확인 필요",
+    "createdAt": "2026-11-04T08:25:21.788Z"
+  },
+  {
+    "id": "u3",
+    "seq": 1023,
+    "name": "RAHMAN MD",
+    "contact": "rahman@example.com",
+    "carrier": "LG U+",
+    "plan": "데이터 무제한",
+    "pickup": "공항 수령",
+    "status": "접수",
+    "partnerRef": "LGU-88301",
+    "memo": "",
+    "createdAt": "2026-11-06T07:25:21.788Z"
+  }
+]

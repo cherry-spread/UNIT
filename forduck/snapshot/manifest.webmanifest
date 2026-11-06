@@ -1,0 +1,42 @@
+{
+  "name": "포덕 for duck — 한국 생활, 이웃과 함께",
+  "short_name": "포덕",
+  "description": "한국 거주 외국인을 위한 하이퍼로컬 슈퍼앱",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FCC003",
+  "theme_color": "#FCC003",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

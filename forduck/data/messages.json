@@ -1,0 +1,118 @@
+[
+  {
+    "id": "gm1",
+    "roomId": "g-vn",
+    "mine": false,
+    "author": "minh_02",
+    "body": "Chào mọi người, mình mới sang Anyang tuần trước ạ",
+    "ko": "안녕하세요, 저 지난주에 안양 왔어요",
+    "createdAt": "2026-11-06T05:25:21.788Z",
+    "read": true
+  },
+  {
+    "id": "gm2",
+    "roomId": "g-vn",
+    "mine": false,
+    "author": "tu_hanoi",
+    "body": "Chào bạn! Có gì cần hỏi cứ nhắn nhé",
+    "ko": "환영해요! 궁금한 거 있으면 물어보세요",
+    "createdAt": "2026-11-06T06:25:21.788Z",
+    "read": true
+  },
+  {
+    "id": "gm3",
+    "roomId": "g-vn",
+    "mine": false,
+    "author": "linh_94",
+    "body": "Cuối tuần này có ai đá bóng ở sông Anyang không?",
+    "ko": "이번 주말 안양천에서 축구 하실 분!",
+    "createdAt": "2026-11-06T08:13:21.788Z",
+    "read": false
+  },
+  {
+    "id": "gm4",
+    "roomId": "g-ph",
+    "mine": false,
+    "author": "jenny_mnl",
+    "body": "May alam ba kayong murang palengke sa Anyang?",
+    "ko": "안양에 싼 시장 아는 분 계세요?",
+    "createdAt": "2026-11-06T07:25:21.788Z",
+    "read": false
+  },
+  {
+    "id": "gm5",
+    "roomId": "g-mn",
+    "mine": false,
+    "author": "bat_ub",
+    "body": "Сайн байна уу! Шинээр ирсэн хүн байна уу?",
+    "ko": "안녕하세요! 새로 오신 분 있나요?",
+    "createdAt": "2026-11-06T06:25:21.788Z",
+    "read": true
+  },
+  {
+    "id": "m0",
+    "roomId": "r0",
+    "mine": false,
+    "body": "안녕하세요, 포덕 운영팀입니다. 커뮤니티 이용 규칙이 업데이트됐어요. 마이페이지 > 설정 > 약관에서 확인해 주세요.",
+    "read": true,
+    "createdAt": "2026-11-06T04:25:21.788Z"
+  },
+  {
+    "id": "m1",
+    "roomId": "r1",
+    "mine": true,
+    "body": "안녕하세요! 책상 아직 판매 중인가요?",
+    "read": true,
+    "createdAt": "2026-11-06T05:03:21.788Z"
+  },
+  {
+    "id": "m2",
+    "roomId": "r1",
+    "mine": false,
+    "body": "สวัสดีค่ะ ยังขายอยู่ค่ะ",
+    "ko": "안녕하세요, 아직 판매 중이에요.",
+    "read": true,
+    "createdAt": "2026-11-06T05:06:21.788Z"
+  },
+  {
+    "id": "m3",
+    "roomId": "r1",
+    "mine": false,
+    "body": "직거래는 안양역 2번 출구 어때요?",
+    "read": true,
+    "createdAt": "2026-11-06T05:07:21.788Z"
+  },
+  {
+    "id": "m4",
+    "roomId": "r1",
+    "mine": true,
+    "body": "좋아요! 토요일 오후 2시 가능해요?",
+    "read": true,
+    "createdAt": "2026-11-06T05:11:21.788Z"
+  },
+  {
+    "id": "m5",
+    "roomId": "r1",
+    "mine": false,
+    "body": "ได้ค่ะ เจอกันวันเสาร์นะคะ",
+    "ko": "좋아요, 토요일에 만나요.",
+    "read": true,
+    "createdAt": "2026-11-06T05:25:21.788Z"
+  },
+  {
+    "id": "m6",
+    "roomId": "r2",
+    "mine": false,
+    "body": "토요일 러닝 좋아요! 어디서 만날까요?",
+    "read": true,
+    "createdAt": "2026-11-05T08:25:21.788Z"
+  },
+  {
+    "id": "m7",
+    "roomId": "r3",
+    "mine": false,
+    "body": "네고 가능한가요?",
+    "read": true,
+    "createdAt": "2026-11-05T07:25:21.788Z"
+  }
+]

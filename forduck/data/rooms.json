@@ -1,0 +1,175 @@
+[
+  {
+    "id": "g-vn",
+    "kind": "모임",
+    "name": "",
+    "isSystem": false,
+    "country": "vn",
+    "members": 1284,
+    "lastMessage": "이번 주말 안양천에서 축구 하실 분!",
+    "lastAt": "2026-11-06T08:13:21.788Z",
+    "unread": 3
+  },
+  {
+    "id": "g-mn",
+    "kind": "모임",
+    "name": "",
+    "isSystem": false,
+    "country": "mn",
+    "members": 412,
+    "lastMessage": "Сайн байна уу! Шинээр ирсэн хүн байна уу?",
+    "lastAt": "2026-11-06T06:25:21.788Z",
+    "unread": 0
+  },
+  {
+    "id": "g-np",
+    "kind": "모임",
+    "name": "",
+    "isSystem": false,
+    "country": "np",
+    "members": 268,
+    "lastMessage": "नयाँ आएको साथीहरू यहाँ सोध्नुहोस्",
+    "lastAt": "2026-11-06T03:25:21.788Z",
+    "unread": 0
+  },
+  {
+    "id": "g-ph",
+    "kind": "모임",
+    "name": "",
+    "isSystem": false,
+    "country": "ph",
+    "members": 531,
+    "lastMessage": "May alam ba kayong murang palengke sa Anyang?",
+    "lastAt": "2026-11-06T07:25:21.788Z",
+    "unread": 1
+  },
+  {
+    "id": "g-bd",
+    "kind": "모임",
+    "name": "",
+    "isSystem": false,
+    "country": "bd",
+    "members": 347,
+    "lastMessage": "নতুন কেউ এসেছেন? প্রশ্ন করুন",
+    "lastAt": "2026-11-06T05:25:21.788Z",
+    "unread": 0
+  },
+  {
+    "id": "g-th",
+    "kind": "모임",
+    "name": "",
+    "isSystem": false,
+    "country": "th",
+    "members": 296,
+    "lastMessage": "มีใครรู้จักร้านอาหารไทยแถวนี้ไหมคะ",
+    "lastAt": "2026-11-06T01:25:21.788Z",
+    "unread": 0
+  },
+  {
+    "id": "g-id",
+    "kind": "모임",
+    "name": "",
+    "isSystem": false,
+    "country": "id",
+    "members": 224,
+    "lastMessage": "Ada yang tahu masjid terdekat?",
+    "lastAt": "2026-11-05T08:25:21.788Z",
+    "unread": 0
+  },
+  {
+    "id": "g-mm",
+    "kind": "모임",
+    "name": "",
+    "isSystem": false,
+    "country": "mm",
+    "members": 158,
+    "lastMessage": "နေကောင်းလား? အသစ်ရောက်တဲ့သူရှိလား",
+    "lastAt": "2026-11-05T07:25:21.788Z",
+    "unread": 0
+  },
+  {
+    "id": "g-uz",
+    "kind": "모임",
+    "name": "",
+    "isSystem": false,
+    "country": "uz",
+    "members": 203,
+    "lastMessage": "Salom! Yangi kelganlar bormi?",
+    "lastAt": "2026-11-04T08:25:21.788Z",
+    "unread": 0
+  },
+  {
+    "id": "g-kh",
+    "kind": "모임",
+    "name": "",
+    "isSystem": false,
+    "country": "kh",
+    "members": 96,
+    "lastMessage": "សួស្តី! មាននរណាថ្មីទេ?",
+    "lastAt": "2026-11-04T08:25:21.788Z",
+    "unread": 0
+  },
+  {
+    "id": "g-lk",
+    "kind": "모임",
+    "name": "",
+    "isSystem": false,
+    "country": "lk",
+    "members": 74,
+    "lastMessage": "ආයුබෝවන්! අලුත් අය ඉන්නවද?",
+    "lastAt": "2026-11-03T08:25:21.788Z",
+    "unread": 0
+  },
+  {
+    "id": "g-cn",
+    "kind": "모임",
+    "name": "",
+    "isSystem": false,
+    "country": "cn",
+    "members": 612,
+    "lastMessage": "有人知道附近哪里能买到中国食材吗",
+    "lastAt": "2026-11-06T04:25:21.788Z",
+    "unread": 0
+  },
+  {
+    "id": "r0",
+    "kind": "안내",
+    "name": "운영팀 안내",
+    "isSystem": true,
+    "lastMessage": "커뮤니티 이용 규칙이 업데이트됐어요",
+    "lastAt": "2026-11-06T04:25:21.788Z",
+    "unread": 1
+  },
+  {
+    "id": "r1",
+    "kind": "거래",
+    "name": "sofia_bkk",
+    "isSystem": false,
+    "productId": "p1",
+    "lastMessage": "ได้ค่ะ เจอกันวันเสาร์นะคะ",
+    "lastAt": "2026-11-06T05:25:21.788Z",
+    "unread": 2,
+    "responseHint": "보통 10분 내 응답"
+  },
+  {
+    "id": "r2",
+    "kind": "일반",
+    "name": "mika_tokyo",
+    "isSystem": false,
+    "lastMessage": "토요일 러닝 좋아요! 어디서 만날까요?",
+    "lastAt": "2026-11-05T08:25:21.788Z",
+    "unread": 0,
+    "responseHint": "보통 1시간 내 응답"
+  },
+  {
+    "id": "r3",
+    "kind": "거래",
+    "name": "ahmad_kl",
+    "isSystem": false,
+    "productId": "p5",
+    "lastMessage": "네고 가능한가요?",
+    "lastAt": "2026-11-05T07:25:21.788Z",
+    "unread": 0,
+    "responseHint": "보통 30분 내 응답"
+  }
+]

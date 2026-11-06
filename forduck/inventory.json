@@ -1,0 +1,206 @@
+[
+  {
+    "url": "https://forduckapp.vercel.app/assets/ai-fab-DWxmBeQ_.png",
+    "path": "snapshot/assets/ai-fab-DWxmBeQ_.png",
+    "bytes": 32055,
+    "sha256": "8a08427af0664564dcb1ac14888100f23d4a35e430b1f003a24b7b461e05adc2"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/assets/duck-ask-DO75bsJ7.png",
+    "path": "snapshot/assets/duck-ask-DO75bsJ7.png",
+    "bytes": 58799,
+    "sha256": "1ea34ee9d543821f025a9c56750723a38f8e335a974cff892cb51a797f0e2730"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/assets/duck-cart-CKQttTe0.png",
+    "path": "snapshot/assets/duck-cart-CKQttTe0.png",
+    "bytes": 80942,
+    "sha256": "c0ebbe95213dd4f796269d4ada0fe8b8f9aa15a041e170453e3d9760afb8490d"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/assets/duck-face-DA3h75XX.png",
+    "path": "snapshot/assets/duck-face-DA3h75XX.png",
+    "bytes": 14473,
+    "sha256": "cafee656b10ac477709cc2ad1609abe45c9859c754f34c196e8daf0f21177aa4"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/assets/duck-heart-M5qDSJwt.png",
+    "path": "snapshot/assets/duck-heart-M5qDSJwt.png",
+    "bytes": 65767,
+    "sha256": "1358a902ccdde60aae34a439c691f5fd144e44605c61659b5af9d5ebeb0b2cc8"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/assets/duck-party-LH4PX_QF.png",
+    "path": "snapshot/assets/duck-party-LH4PX_QF.png",
+    "bytes": 109405,
+    "sha256": "10ca2e2a7a4648843cde1df87307786ad9233f19de134fc8884ced7146e28fd5"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/assets/duck-peek-DmdjAeQ6.png",
+    "path": "snapshot/assets/duck-peek-DmdjAeQ6.png",
+    "bytes": 70956,
+    "sha256": "28baeb0272b2b36c8b50d90691f6cf3d3bb882d68ab384b2316ec1c1e2afd20c"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/assets/duck-point-BdMutCf8.png",
+    "path": "snapshot/assets/duck-point-BdMutCf8.png",
+    "bytes": 71881,
+    "sha256": "995f7721090271c969292b5f012592cc81015efc7d9c8315e07bc5d04e9314b1"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/assets/duck-study-77d7e-E9.png",
+    "path": "snapshot/assets/duck-study-77d7e-E9.png",
+    "bytes": 94716,
+    "sha256": "71ec093c9f78307bec4000cdb05792b1626372d08e9c4dd387f31be2f1dfe2e4"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/assets/duck-think-Cvv31LF2.png",
+    "path": "snapshot/assets/duck-think-Cvv31LF2.png",
+    "bytes": 61695,
+    "sha256": "f181cd4040325580c93b95de7a2578c7c53c451c81b325aa65c4ba4e7ee9fd4c"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/assets/duck-wave-DesX9bRK.png",
+    "path": "snapshot/assets/duck-wave-DesX9bRK.png",
+    "bytes": 98214,
+    "sha256": "c6278bc74ade7e5597d6d62a23c873ac26142775b30b4d0da7ca11f04ac808a7"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/apple-touch-icon.png",
+    "path": "snapshot/apple-touch-icon.png",
+    "bytes": 23246,
+    "sha256": "df6b2bf4fb52571014f187ed246273ee2bbd2e794a6835b0879bff34c75201db"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/assets/AdminApp-CWQ5Qkuo.css",
+    "path": "snapshot/assets/AdminApp-CWQ5Qkuo.css",
+    "bytes": 14553,
+    "sha256": "0ba9079bacee0330c73d46a6645c170d5397a3f69eb1c9df0ae3d7d0f24873b1"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/assets/AdminApp-DgKi5lzv.js",
+    "path": "snapshot/assets/AdminApp-DgKi5lzv.js",
+    "bytes": 89755,
+    "sha256": "0ff7c42edef487da46158c1d22cf509cf6751bf3246b3d51ad862db612a355c3"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/icon-192-maskable.png",
+    "path": "snapshot/icon-192-maskable.png",
+    "bytes": 15690,
+    "sha256": "9cda623df4a1c5ab21a17f1dfd90588ba8b1201c4aac6f63dfb6488abae7451a"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/icon-192.png",
+    "path": "snapshot/icon-192.png",
+    "bytes": 25768,
+    "sha256": "5d7b668d82e8ec8b201085e8ea46405e8a54914254cf196d297c44c3db4c66df"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/icon-512-maskable.png",
+    "path": "snapshot/icon-512-maskable.png",
+    "bytes": 84984,
+    "sha256": "b981bef87b38c787c84185e8a02f4d93303ddc07d3f7304d8157b7bbca960f68"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/icon-512.png",
+    "path": "snapshot/icon-512.png",
+    "bytes": 147826,
+    "sha256": "f1ba6fba54b594b2069615f2a719ee975ba8d53180198c460673d46e3b6ed6ed"
+  },
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_055416_6b0db8ac-60ee-4767-9730-82ae77da13ef.png",
+    "path": "external/hf_20260907_055416_6b0db8ac-60ee-4767-9730-82ae77da13ef.png",
+    "bytes": 1789630,
+    "sha256": "72ebf384bb9c913bc008f62649c128afdff503d3821226e200e26d0ef4a464f6"
+  },
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_055416_e1585846-56ea-47eb-b0c0-e4c909eeb3e1.png",
+    "path": "external/hf_20260907_055416_e1585846-56ea-47eb-b0c0-e4c909eeb3e1.png",
+    "bytes": 1425265,
+    "sha256": "6509bdb90b6ee3e96a159504d1c1dfa8cacdf03b03a5d18eb485f917547357fa"
+  },
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_055416_0ffe3cf0-5bf0-4b15-b690-502be59cba1c.png",
+    "path": "external/hf_20260907_055416_0ffe3cf0-5bf0-4b15-b690-502be59cba1c.png",
+    "bytes": 2499649,
+    "sha256": "23b83fff4b47e7762cdf314dea9b623c1f656e704cafbb865026fe846d86da7d"
+  },
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_055416_b2b2f554-0271-46d0-b685-a18fbbb02266.png",
+    "path": "external/hf_20260907_055416_b2b2f554-0271-46d0-b685-a18fbbb02266.png",
+    "bytes": 1758966,
+    "sha256": "50d58e87645f74a26d3caf9fca21c7afc22a8e6ad9d5a16c90431c966779cb28"
+  },
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_055416_e2d29634-332d-4e73-9dda-9e383d55287d.png",
+    "path": "external/hf_20260907_055416_e2d29634-332d-4e73-9dda-9e383d55287d.png",
+    "bytes": 1600035,
+    "sha256": "2fb60103b32664db7a7619f15f02b4b46d29566836ccd3519486547be014c372"
+  },
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_055416_0e192590-1a10-48e2-a472-8e3583130caf.png",
+    "path": "external/hf_20260907_055416_0e192590-1a10-48e2-a472-8e3583130caf.png",
+    "bytes": 1409413,
+    "sha256": "68521b4eb464f0005d50cab08714f0bbb8c08e5633304f5810db21d502da1b2c"
+  },
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_055416_93187b8d-638f-4f02-b316-e1d0f7321985.png",
+    "path": "external/hf_20260907_055416_93187b8d-638f-4f02-b316-e1d0f7321985.png",
+    "bytes": 1328474,
+    "sha256": "5e89b8069b39847235482467a4aeba3edd29c57d904043bfa1dc529e3bef2096"
+  },
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_055416_6f2d6225-0b8c-421e-96d3-818d6a519612.png",
+    "path": "external/hf_20260907_055416_6f2d6225-0b8c-421e-96d3-818d6a519612.png",
+    "bytes": 1285709,
+    "sha256": "43410b687f0be63c12f4be82e7af32b9eb6aa904dce5a0c052ad551c5710c695"
+  },
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_055416_c25e6908-4405-4595-b4aa-0fd26700bf20.png",
+    "path": "external/hf_20260907_055416_c25e6908-4405-4595-b4aa-0fd26700bf20.png",
+    "bytes": 1428646,
+    "sha256": "12bab01f799213beafbb3b0e45bea94a09dccf3c498b214eda581288855d212e"
+  },
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_060848_594911f4-cc19-4959-8d05-820c01edb0ad.mp4",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_060848_19a39ca9-f551-4f45-b87a-031092cb1b16.mp4",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://d8j0ntlcm91z4.cloudfront.net/user_37c9Ks1OdY9EiCnbQ95G3YWq7EC/hf_20260907_060849_6257415b-4d8c-468e-8999-b7ba015bf0eb.mp4",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/",
+    "path": "snapshot/index.html",
+    "bytes": 1183,
+    "sha256": "cf98d28f37809f4e728715b2f29e7e3d6fd8a0ce664e420238b31092251b4a99"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/manifest.webmanifest",
+    "path": "snapshot/manifest.webmanifest",
+    "bytes": 936,
+    "sha256": "100cf8c61e1c2152942e277dfb8234ea0ca17c7bdf284a26c12e7d861975d8ca"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/favicon.svg",
+    "path": "snapshot/favicon.svg",
+    "bytes": 292,
+    "sha256": "9d51c854553861a327377f18b2957d6a1df459100335ff61e840de603ff9a34b"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/assets/index-DcUwVLOL.css",
+    "path": "snapshot/assets/index-DcUwVLOL.css",
+    "bytes": 66562,
+    "sha256": "bcb6b2b6ed394367a81cb693076931f6050a45fe8c4b261945705ba769fc93c3"
+  },
+  {
+    "url": "https://forduckapp.vercel.app/assets/index-CH74Cr12.js",
+    "path": "snapshot/assets/index-CH74Cr12.js",
+    "bytes": 610603,
+    "sha256": "dcf1c04b24f4135047fc9a415d24cf06b29ddb95dd9e748c48a29e0dcb61cb9a"
+  }
+]
