@@ -13,6 +13,10 @@ ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT = ROOT / "snapshot"
 INVENTORY = json.loads((ROOT / "inventory.json").read_text())
 ORIGINAL_GEO = "https://forduckapp.vercel.app/api/geo"
+LESSON_VIDEOS = ROOT / "lesson-videos"
+LESSONS = json.loads((ROOT / "data" / "videos.json").read_text())
+LESSON_ROUTE = "/__lesson-video/"
+VIDEO_CARD = "function Dx({v:e,lang:t,onNoUrl:n}){"
 
 
 def localize_media(text):
@@ -30,6 +34,37 @@ def localize_media(text):
             expression = binding[1] + "+" + json.dumps(name)
             text = re.sub(r"(?<![\w$])" + re.escape(expression), lambda _: json.dumps(local_url), text)
     return text
+
+
+def use_replacement_lessons(text):
+    urls = {
+        lesson["url"]: f'{LESSON_ROUTE}{lesson["id"]}.mp4'
+        for lesson in LESSONS
+        if (LESSON_VIDEOS / f'{lesson["id"]}.mp4').is_file()
+    }
+    if not urls or VIDEO_CARD not in text:
+        return text
+    # Resolve at the player so profiles with previously saved video URLs work too.
+    # A URL entered in the admin console stays in use unless it is the captured URL.
+    resolve = (
+        f"const replacement={json.dumps(urls)}[e.url];"
+        "if(replacement)e={...e,url:location.origin+replacement};"
+        "const pendingCue=y.useRef(null);"
+    )
+    text = text.replace(VIDEO_CARD, VIDEO_CARD + resolve, 1)
+    # A cue can be clicked before the video element has loaded its metadata.
+    text = text.replace(
+        "if(!s.current){r(!0);return}s.current.currentTime=b.start+.05",
+        "if(!s.current||!s.current.readyState){pendingCue.current=b;r(!0);return}"
+        "s.current.currentTime=b.start+.05",
+        1,
+    )
+    return text.replace(
+        'preload:"metadata",onTimeUpdate:m',
+        'preload:"metadata",onLoadedMetadata:()=>{const cue=pendingCue.current;'
+        "if(cue){pendingCue.current=null;d(cue)}},onTimeUpdate:m",
+        1,
+    )
 
 
 class Handler(SimpleHTTPRequestHandler):
@@ -88,9 +123,49 @@ class Handler(SimpleHTTPRequestHandler):
     def do_POST(self):
         self.api_unavailable()
 
+    def lesson_video(self, path):
+        allowed_names = {f'{lesson["id"]}.mp4' for lesson in LESSONS}
+        name = path.removeprefix(LESSON_ROUTE)
+        if name not in allowed_names or not (LESSON_VIDEOS / name).is_file():
+            self.send_error(404)
+            return None
+
+        content = (LESSON_VIDEOS / name).read_bytes()
+        size = len(content)
+        start, end = 0, size - 1
+        range_header = self.headers.get("Range")
+        if range_header:
+            match = re.fullmatch(r"bytes=(\d{0,18})-(\d{0,18})", range_header)
+            if match and match[1]:
+                start = int(match[1])
+                if match[2]:
+                    end = min(end, int(match[2]))
+            elif match and match[2]:
+                start = max(0, size - int(match[2]))
+            else:
+                start = size
+            if start > end:
+                self.send_response(416)
+                self.send_header("Content-Range", f"bytes */{size}")
+                self.send_header("Content-Length", "0")
+                self.end_headers()
+                return None
+
+        self.send_response(206 if range_header else 200)
+        self.send_header("Content-Type", "video/mp4")
+        self.send_header("Accept-Ranges", "bytes")
+        self.send_header("Content-Length", str(end - start + 1))
+        self.send_header("Cache-Control", "no-store")
+        if range_header:
+            self.send_header("Content-Range", f"bytes {start}-{end}/{size}")
+        self.end_headers()
+        return io.BytesIO(content[start : end + 1])
+
     def send_head(self):
         request = urlsplit(self.path)
         path = request.path
+        if path.startswith(LESSON_ROUTE):
+            return self.lesson_video(path)
         if path == "/api/geo" and self.command == "GET" and getattr(self.server, "use_original_geo", False):
             self.geo(request.query)
             return None
@@ -111,7 +186,7 @@ class Handler(SimpleHTTPRequestHandler):
             return super().send_head()
         content = file.read_bytes()
         if file.suffix == ".js":
-            content = localize_media(content.decode()).encode()
+            content = use_replacement_lessons(localize_media(content.decode())).encode()
         self.send_response(200)
         self.send_header("Content-Type", self.guess_type(str(file)))
         self.send_header("Content-Length", str(len(content)))
