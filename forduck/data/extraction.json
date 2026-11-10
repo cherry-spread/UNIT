@@ -13,7 +13,9 @@
     "videos": 3,
     "leads": 3,
     "reports": 2,
-    "users": 7
+    "users": 7,
+    "ai": 0,
+    "audit": 0
   },
   "errors": {}
 }

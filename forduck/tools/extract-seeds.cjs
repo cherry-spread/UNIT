@@ -60,8 +60,8 @@ function evaluate(n) {
 }
 const datasets = {};
 const errors = {};
-for(const match of source.matchAll(/G\(z\.(\w+),([\w$]+)\)/g)) {
-  try {datasets[match[1]]=evaluate({type:'Identifier',name:match[2]});}
+for(const match of source.matchAll(/G\(z\.(\w+),([\w$]+|\[\])\)/g)) {
+  try {datasets[match[1]]=match[2]==='[]' ? [] : evaluate({type:'Identifier',name:match[2]});}
   catch(e){errors[match[1]]=e.message;}
 }
 fs.mkdirSync(path.join(root,'data'), {recursive:true});
