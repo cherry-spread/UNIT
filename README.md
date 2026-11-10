@@ -6,7 +6,8 @@
 
 | 폴더 | 프로젝트 | 상태 |
 | --- | --- | --- |
-| [forduck](forduck/) | 포덕 for duck | 배포 파일 백업 및 기본 데이터 추출 |
+| [B.forduck](B.forduck/) | 포덕 for duck | 로컬 데모, 기본 데이터, 대체 학습 영상 |
+| [A.포덕 기획서](A.%ED%8F%AC%EB%8D%95%20%EA%B8%B0%ED%9A%8D%EC%84%9C/) | 포덕 제품 기획 | PRD PDF 및 기능명세서 Markdown |
 
 ## 공개 범위
 
